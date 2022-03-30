@@ -1,2 +1,2 @@
 # Kontagion
-Game created for CS32 Project 2 in C++
+Game created for CS32 Project 2 using C++
